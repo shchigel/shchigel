@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="270"/>
+  <img src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/web-developer.gif" width="270"/>
   <br/>
   <br/>
   
